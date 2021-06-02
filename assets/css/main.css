@@ -24,3 +24,18 @@ body{
     height: 40px;
     width: 60px;
 }
+
+#hero-home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://img1.wsimg.com/isteam/ip/7ddd3b1f-7645-4af1-a248-e5a12a833637/42f3c279-752c-4be4-9781-a5f4a653c6c2.JPG");
+    height: 50vh;
+    background-position: center;
+    background-size: cover
+}
+
+#hero-home h1{
+    margin: 0;
+    color: black;
+}
